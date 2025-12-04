@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**ViktorJensen/ViktorJensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a fullstack developer based in Aarhus Denmark
+You can reach me at viktorsejr@gmail.com
 
-Here are some ideas to get you started:
+Currently undergoing my education
+    Data Technician specialized in programming.
+      ⚠️ Apprenticeship at Grundfos💧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tools are:
+Python🐍
+  Django Ninja
+
+TypeScript
+  NextJs
+    Tailwind
+
+C#
+
+Database
+    MongoDB - NoSQL
