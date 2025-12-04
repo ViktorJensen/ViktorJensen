@@ -9,15 +9,3 @@ Currently undergoing my education
 
 ⚠️ Apprenticeship at Grundfos💧
 _____________________________________________
-Python🐍
-##Django Ninja
-
-
-TypeScript
-##NextJs
-###Tailwind
-
-C#
-
-Database
-##MongoDB - NoSQL
