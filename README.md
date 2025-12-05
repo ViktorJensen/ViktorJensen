@@ -8,3 +8,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c-sharp" width="45" height="45"/>          
 </p>
+![Snake animation](https://github.com/ViktorJensen/ViktorJensen/blob/output/github-contribution-grid-snake.svg)
