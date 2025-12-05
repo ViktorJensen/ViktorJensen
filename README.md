@@ -1,12 +1,3 @@
-## Hi there 👋
-
-Im a fullstack developer based in Aarhus Denmark
-
-You can reach me at viktorsejr@gmail.com
-_____________________________________________
-Currently undergoing my education
-
-Data Technician specialized in programming.
-
-⚠️ Apprenticeship at Grundfos💧
-_____________________________________________
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi there👋!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
